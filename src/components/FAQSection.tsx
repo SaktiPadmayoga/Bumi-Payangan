@@ -29,7 +29,7 @@ const FAQSection = () => {
     {
       id: 5,
       question: 'Bagaimana cara menghubungi tim petani Payangan untuk pertanyaan lebih lanjut?',
-      answer: 'Anda dapat menghubungi kami melalui WhatsApp atau email. Tim kami tersedia 24/7 untuk membantu menjawab pertanyaan tentang produk atau pemesanan.'
+      answer: 'Anda dapat menghubungi kami melalui WhatsApp. Tim kami tersedia 24/7 untuk membantu menjawab pertanyaan tentang produk atau pemesanan.'
     }
   ];
 
