@@ -1,17 +1,15 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://jambukristal.com/sitemap.xml
+Sitemap: https://bumipayangan.com/sitemap.xml
 
-# Disallow admin or private areas (if any)
+# Optional: Batasi akses ke area privat (jika ada)
 # Disallow: /admin/
 # Disallow: /private/
 
-# Allow all images
+# Izinkan Google mengindeks gambar
 User-agent: Googlebot-Image
 Allow: /images/
 
-# Crawl delay (optional)
+# Batasi frekuensi crawl jika diperlukan
 Crawl-delay: 1
-
