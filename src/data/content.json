@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jambu Kristal",
+      "category": "buah-segar",
+      "price": "Rp 25.000",
+      "unit": "per kg",
+      "image": "/images/jambu_hero.jpeg",
+      "description": "Jambu kristal segar langsung dari kebun petani lokal. Buah dengan tekstur renyah, rasa manis, dan kandungan air tinggi.",
+      "features": [
+        "100% Organik",
+        "Tanpa pestisida",
+        "Dipetik saat matang optimal",
+        "Kaya vitamin C dan antioksidan"
+      ],
+      "nutritions": {
+        "vitamin_c": "228mg per 100g",
+        "fiber": "5.4g per 100g",
+        "calories": "68 kcal per 100g",
+        "water": "86%"
+      },
+      "availability": "Tersedia sepanjang tahun",
+      "shipping": "Same day delivery area Jabodetabek"
+    },
+    {
+      "id": 2,
+      "name": "Pepaya",
+      "category": "buah-segar",
+      "price": "Rp 15.000",
+      "unit": "per kg",
+      "image": "/images/pepaya.webp",
+      "description": "Pepaya manis dan segar. Cocok dinikmati langsung, dijadikan jus atau smoothie untuk tambahan rasa manis alami dan nutrisi tinggi.",
+      "features": [
+        "Siap konsumsi",
+        "Rasa manis alami",
+        "Kaya serat",
+        "Ditanam tanpa bahan kimia berbahaya"
+      ],
+      "nutritions": {
+        "vitamin_c": "60mg per 100g",
+        "fiber": "1.7g per 100g",
+        "calories": "43 kcal per 100g",
+        "water": "88%"
+      },
+      "availability": "Tersedia setiap hari",
+      "shipping": "Same day delivery area Jabodetabek"
+    },
+    {
+      "id": 3,
+      "name": "Kelapa Muda",
+      "category": "buah-segar",
+      "price": "Rp 17.000",
+      "unit": "per buah",
+      "image": "/images/kelapa.webp",
+      "description": "Kelapa muda segar yang telah dikupas siap konsumsi. Cocok untuk minuman isotonik alami dan penghilang dahaga.",
+      "features": [
+        "Menyegarkan dan alami",
+        "Tanpa pengawet",
+        "Kaya elektrolit",
+        "Langsung dari petani"
+      ],
+      "nutritions": {
+        "electrolytes": "Sumber alami",
+        "calories": "19 kcal per 100ml air kelapa",
+        "sugar": "2.6g per 100ml",
+        "potassium": "250mg per 100ml"
+      },
+      "availability": "Tersedia saat musim panen",
+      "shipping": "Same day delivery area Jabodetabek"
+    },
+    {
+        "id": 4,
+        "name": "Bunga Gemitir dan Pacah",
+        "category": "bunga",
+        "price": "Rp 17.000",
+        "unit": "per buah",
+        "image": "/images/bunga_hero.png",
+        "description": "Rangkaian bunga Gemitir dan Pacah segar, khas Bali, sering digunakan dalam upacara adat dan dekorasi.",
+        "features": [
+          "Segar dan wangi alami",
+          "Langsung dari petani lokal",
+          "Cocok untuk upacara dan dekorasi",
+          "Tanpa bahan kimia"
+        ],
+        "nutritions": null,
+        "availability": "Tersedia setiap hari selama musim panen",
+        "shipping": "Same day delivery area Jabodetabek"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ibu Sari Dewi",
+      "location": "Jakarta Selatan",
+      "rating": 5,
+      "comment": "Jambu kristalnya segar banget! Anak-anak suka sekali. Pengiriman juga cepat dan buahnya masih segar sampai rumah.",
+      "product": "Jambu Kristal Segar",
+      "date": "2024-05-15",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Bapak Ahmad Rizki",
+      "location": "Bogor",
+      "rating": 5,
+      "comment": "Jus jambu kristalnya enak, tidak terlalu manis dan terasa segar. Cocok untuk diet sehat keluarga.",
+      "product": "Jus Jambu Kristal",
+      "date": "2024-05-10",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Ibu Maya Sinta",
+      "location": "Depok",
+      "rating": 4,
+      "comment": "Manisan jambu kristalnya unik, rasa manis asamnya pas. Anak-anak jadi suka makan buah.",
+      "product": "Manisan Jambu Kristal",
+      "date": "2024-05-08",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Ibu Linda Kartika",
+      "location": "Tangerang",
+      "rating": 5,
+      "comment": "Keripik jambu kristalnya renyah dan tidak berminyak. Camilan sehat untuk keluarga!",
+      "product": "Keripik Jambu Kristal",
+      "date": "2024-05-05",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Bapak Dedi Kurniawan",
+      "location": "Bekasi",
+      "rating": 5,
+      "comment": "Pelayanan ramah, produk berkualitas. Sudah langganan 6 bulan, selalu puas!",
+      "product": "Jambu Kristal Segar",
+      "date": "2024-04-28",
+      "verified": true
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Apakah jambu kristal benar-benar organik?",
+      "answer": "Ya, jambu kristal kami 100% organik. Ditanam tanpa menggunakan pestisida kimia dan pupuk sintetis. Kami memiliki sertifikat organik dari lembaga terpercaya."
+    },
+    {
+      "id": 2,
+      "question": "Berapa lama jambu kristal bisa tahan?",
+      "answer": "Jambu kristal segar bisa tahan 5-7 hari di suhu ruang dan 2-3 minggu jika disimpan di kulkas. Untuk hasil terbaik, konsumsi dalam 3 hari setelah pembelian."
+    },
+    {
+      "id": 3,
+      "question": "Apakah ada pengiriman ke luar Jabodetabek?",
+      "answer": "Saat ini kami melayani pengiriman ke seluruh area Jabodetabek dengan same day delivery. Untuk area luar Jabodetabek, silakan hubungi customer service kami."
+    },
+    {
+      "id": 4,
+      "question": "Bagaimana cara memesan dalam jumlah besar?",
+      "answer": "Untuk pemesanan grosir atau dalam jumlah besar (minimal 50kg), silakan hubungi WhatsApp kami di +62 812-3456-7890. Kami memberikan harga khusus untuk pembelian grosir."
+    },
+    {
+      "id": 5,
+      "question": "Apakah produk olahan menggunakan pengawet?",
+      "answer": "Jus jambu kristal kami tidak menggunakan pengawet buatan, hanya menggunakan proses pasteurisasi alami. Manisan menggunakan gula dan garam sebagai pengawet alami, sedangkan keripik menggunakan teknologi vacuum frying."
+    },
+    {
+      "id": 6,
+      "question": "Bagaimana jika produk tidak sesuai ekspektasi?",
+      "answer": "Kami memberikan garansi 100% uang kembali jika produk tidak sesuai ekspektasi atau rusak saat pengiriman. Hubungi customer service dalam 24 jam setelah penerimaan produk."
+    }
+  ],
+  "about": {
+    "story": "Jambu Kristal Fresh didirikan pada tahun 2020 oleh keluarga petani yang telah berpengalaman lebih dari 20 tahun dalam budidaya jambu kristal. Berawal dari keinginan untuk menyediakan buah segar berkualitas tinggi langsung dari kebun ke meja konsumen.",
+    "mission": "Menyediakan jambu kristal dan produk olahan berkualitas premium yang sehat, segar, dan terjangkau untuk meningkatkan kesehatan masyarakat Indonesia.",
+    "vision": "Menjadi brand terdepan dalam penyediaan jambu kristal organik dan produk olahan sehat di Indonesia.",
+    "values": [
+      {
+        "title": "Kualitas Premium",
+        "description": "Kami hanya menyediakan jambu kristal dengan kualitas terbaik yang telah melewati seleksi ketat."
+      },
+      {
+        "title": "Organik & Natural",
+        "description": "Semua produk kami 100% organik tanpa pestisida dan bahan kimia berbahaya."
+      },
+      {
+        "title": "Langsung dari Petani",
+        "description": "Kami bekerja sama langsung dengan petani lokal untuk memastikan kesegaran dan kualitas."
+      },
+      {
+        "title": "Inovasi Berkelanjutan",
+        "description": "Terus berinovasi dalam pengolahan dan kemasan untuk memberikan produk terbaik."
+      }
+    ],
+    "certifications": [
+      "Sertifikat Organik Indonesia",
+      "HACCP (Hazard Analysis Critical Control Points)",
+      "Halal MUI",
+      "BPOM RI"
+    ],
+    "team_size": "25+ petani dan staff",
+    "farm_area": "15 hektar kebun jambu kristal",
+    "established": "2020"
+  }
+}
+
