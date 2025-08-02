@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Phone, Mail, MapPin, Leaf } from 'lucide-react';
+import { Phone, MapPin, Leaf } from 'lucide-react';
 
 const ContactSection = () => {
     const farmers = [

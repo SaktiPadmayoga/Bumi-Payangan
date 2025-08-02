@@ -1,19 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Leaf, Target, Eye, Award, Users, MapPin, Flower2, Home } from 'lucide-react';
-import contentData from '@/data/content.json';
+import { Leaf, Target, Eye, Users, Flower2, Home } from 'lucide-react';
+
 
 const AboutSection = () => {
-  const { about } = contentData;
-
-  const stats = [
-    { icon: Users, value: about.team_size, label: 'Petani Lokal' },
-    { icon: MapPin, value: about.farm_area, label: 'Luas Kebun' },
-    { icon: Award, value: about.established, label: 'Berdiri Sejak' },
-    { icon: Leaf, value: '100%', label: 'Organik' },
-  ];
-
   return (
     <section id="about" className="py-20 bg-gradient-to-br from-lime-50 to-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
